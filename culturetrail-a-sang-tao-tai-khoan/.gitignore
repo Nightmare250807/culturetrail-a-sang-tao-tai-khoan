@@ -1,0 +1,12 @@
+# hệ điều hành / trình soạn thảo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+# kiểm thử
+__pycache__/
+*.pyc
+node_modules/
+# tệp tạm
+*.log
+*.zip
